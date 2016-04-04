@@ -17,8 +17,8 @@ http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8
 http://200.76.77.237/LIVE/H01/CANAL55/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Azteca_7_Network_logo.PNG" group-title="MEXICO",Azteca 7
 http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://logonoid.com/images/gala-tv-logo.png" group-title="MEXICO" ,GALA TV HD
-http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
+#EXTINF:-1 tvg-logo="http://logonoid.com/images/gala-tv-logo.png" group-title="MEXICO" ,GALA TV CANCUN
+http://74.222.3.185:1935/live/ngrp:galatvcancun_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://blogvecindad.com/imagenes/2013/11/Canal-Once-Mexico-Logo-nuevo.png" group-title="MEXICO" ,CANAL 11 HD
 http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/azteca_trece_zpsepy7lea4.png" group-title="MEXICO",Azteca 13 
