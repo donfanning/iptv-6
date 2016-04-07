@@ -7,7 +7,7 @@ http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597f
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="NACIONALES",TV CHILE
 http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f111419c85c6cf17/chunklist_b800000.m3u8
 
-#EXTINF:-1,BIO BIOCanal 9 Chile
+#EXTINF:-1,BIO BIO Canal 9 Chile
 http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
 
 
