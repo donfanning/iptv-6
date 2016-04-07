@@ -38,43 +38,43 @@ http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
 
 #EXTINF:1,-DEPORTES-
 
-#EXTINF:-1 group-title="DEPORTES",beinHD_Sports_HD1
+#EXTINF:-1 group-title="DEPORTES",bein HD1
 http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/699.ch
-#EXTINF:-1,beinHD_Sports_HD2
+#EXTINF:-1,bein HD2
 http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/700.ch
-#EXTINF:-1,beinHD_Sports_HD3
+#EXTINF:-1,bein HD3
 http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/701.ch
-#EXTINF:-1,beinHD_Sports_HD4
+#EXTINF:-1,bein HD4
 http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/702.ch
-#EXTINF:-1,beinHD_Sports_HD5
+#EXTINF:-1,bein HD5
 http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/703.ch
-#EXTINF:-1,beinHD_Sports_HD6
+#EXTINF:-1,bein HD6
 http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/704.ch
-#EXTINF:-1,beinHD_Sports_HD7
+#EXTINF:-1,bein HD7
 http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/705.ch
-#EXTINF:-1,beinHD_Sports_HD8
+#EXTINF:-1,bein HD8
 http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/706.ch
-#EXTINF:-1,beinHD_Sports_HD9
+#EXTINF:-1,bein HD9
 http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/707.ch
-#EXTINF:-1,beinHD_Sports_HD10
+#EXTINF:-1,bein HD10
 http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/708.ch
-#EXTINF:-1,beinHD_Sports_HD11
+#EXTINF:-1,bein HD11
 http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/709.ch
-#EXTINF:-1,beinHD_Sports_HD12
+#EXTINF:-1,bein HD12
 http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/710.ch
-#EXTINF:-1,beinHD_Sports_HD13
+#EXTINF:-1,bein HD13
 http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/711.ch
-#EXTINF:-1,beinHD_Sports_HD14
+#EXTINF:-1,bein HD14
 http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/712.ch
-#EXTINF:-1,beinHD_Sports_HD15
+#EXTINF:-1,bein HD15
 http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/713.ch
-#EXTINF:-1,beinHD_Sports_HD16
+#EXTINF:-1,bein HD16
 http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/714.ch
 #EXTINF:-1,beinHD Sport 1 FR
 http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/715.ch
 #EXTINF:-1,beinHD Sport 2 FR
 http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/716.ch
-#EXTINF:-1 group-title="DEPORTES",COS
+#EXTINF:-1,COS
 http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
 #EXTINF:-1,COS2
 http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
@@ -90,7 +90,7 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 #EXTINF:-1,SPORTS:SPORT  SPORT TIME TV 2HQ GERMANY
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
 #EXTINF:0,-MUSICA-
-#EXTINF:-1,HIT TV
+#EXTINF:-1group-title="MUSICA",HIT TV 
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1,Quiero Musica
 mms://streamqm.uigc.net/qmusica
@@ -108,7 +108,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8?
 
 
 #EXTINF:0,-Adultos-
-#EXTINF:-1, PlayBoy
+#EXTINF:-1 group-title="Adultos", PlayBoy
 http://s2.edem.tv/iptv/M3MKGZW6NMMUGQ/527/index.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Jazmin Tv
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
