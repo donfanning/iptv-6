@@ -37,7 +37,8 @@ http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
 #EXTINF:0,-NX-
 
 #EXTINF:1,-DEPORTES-
-
+#EXTINF:-1,beinHD_Sports_HD1
+http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/699.ch
 #EXTINF:-1 group-title="DEPORTES",COS
 http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
 #EXTINF:-1,COS2
