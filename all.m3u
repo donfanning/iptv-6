@@ -9,8 +9,9 @@ http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f11141
 
 #EXTINF:-1,BIO BIO Canal 9 Chile
 http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
-#EXTINF:-1, tvg-logo="http://i.imgur.com/Bd09LnA.png" group-title="Canales Chilenos", UCV (HD)
-http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Deportes", Bein Sports N
+http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/04.m3u8?
 
 
 #EXTINF:-1,-Mexico-
