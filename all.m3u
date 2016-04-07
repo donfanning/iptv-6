@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,-Nacionales-
+#EXTINF:-1,-Nacionales-
 
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/tvn_cl_zpsctcjmoub.png" group-title="NACIONALES",TVN 
@@ -11,7 +11,7 @@ http://edge-61-cl.edge.mdstrm.com/tvn-live/_definst_/smil:285a5c6dade574d5f11141
 http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
 
 
-#EXTINF:0,-Mexico-
+#EXTINF:-1,-Mexico-
 
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal_estrellas_lam_zpsqvy9egdu.png" group-title="MEXICO",Canal de las Estrellas HD
 http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-b.m3u8
@@ -34,9 +34,9 @@ http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
 #EXTINF:-1,Aprende
 http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
 
-#EXTINF:0,-NX-
+#EXTINF:-1,-NX-
 
-#EXTINF:1,-DEPORTES-
+#EXTINF:-1,-DEPORTES-
 
 #EXTINF:-1 group-title="DEPORTES",bein HD1
 http://37.187.24.177:80/Hamadil1xa141/Hamadil1xa141/699.ch
@@ -107,7 +107,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8?
 
 
 
-#EXTINF:1,-Adultos-
+#EXTINF:-1,-Adultos-
 #EXTINF:-1 group-title="Adultos", PlayBoy
 http://s2.edem.tv/iptv/M3MKGZW6NMMUGQ/527/index.m3u8
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/play_zps6mp3huks.png" group-title="Adultos",Jazmin Tv
