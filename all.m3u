@@ -35,6 +35,9 @@ http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
 http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
 
 #EXTINF:-1,-NX-
+#EXTINF:-1,BIO BIO Canal 9 Chile
+http://wow2.cl.digitalproserver.com/c9//c9.smil/playlist.m3u8
+
 
 #EXTINF:-1,-DEPORTES-
 
@@ -89,7 +92,8 @@ http://evolive-tv.com:8000/live/genio/genio/67.m3u8
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
 #EXTINF:-1,SPORTS:SPORT  SPORT TIME TV 2HQ GERMANY
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
-#EXTINF:0,-MUSICA-
+
+#EXTINF:-1,-MUSICA-
 #EXTINF:-1group-title="MUSICA",HIT TV 
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:-1,Quiero Musica
