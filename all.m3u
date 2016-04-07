@@ -35,53 +35,19 @@ http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
 http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
 
 #EXTINF:-1,-NX-
-#EXTM3U
-#EXTINF:0,FOX
-http://178.238.224.19/5858/201.m3u8
-#EXTINF:0,WARNERCHANNEL
-http://178.238.224.19/5858/205.m3u8
-#EXTINF:0,UNIVERSAL
-http://178.238.224.19/5858/207.m3u8
-#EXTINF:0,CARTOONNETWORK
-http://178.238.224.19/5858/320.m3u8
-#EXTINF:0,NICK
-http://178.238.224.19/5858/315.m3u8
-#EXTINF:0,DISNEYXD
-http://178.238.224.19/5858/322.m3u8
-#EXTINF:0,DISNEYCHANNEL
-http://178.238.224.19/5858/312.m3u8
-#EXTINF:0,NICKTOONS
-http://178.238.224.19/5858/314.m3u8
-#EXTINF:0,TRUTV
-http://178.238.224.19/5858/215.m3u8
-#EXTINF:0,FOXLIFE
-http://178.238.224.19/5858/271.m3u8
-#EXTINF:0,AXN
-http://178.238.224.19/5858/213.m3u8
-#EXTINF:0,E!
-http://178.238.224.19/5858/255.m3u8
-#EXTINF:0,FOXMOVIES
-http://178.238.224.19/5858/417.m3u8
-#EXTINF:0,STUDIOUNIVERSAL
-http://178.238.224.19/5858/492.m3u8
-#EXTINF:0,GOLDENEDGE
-http://178.238.224.19/5858/484.m3u8
-#EXTINF:0,AMCHD
-http://178.238.224.19/5858/444.m3u8
-#EXTINF:0,CINECANAL
-http://178.238.224.19/5858/480.m3u8
-#EXTINF:0,GOLDENHD
-http://178.238.224.19/5858/436.m3u8
-#EXTINF:0,CINEMAX
-http://178.238.224.19/5858/481.m3u8
-#EXTINF:0,SONY
-http://178.238.224.19/5858/203.m3u8
-#EXTINF:0,FX
-http://178.238.224.19/5858/209.m3u8
-#EXTINF:0,HISTORY
-http://178.238.224.19/5858/353.m3u8
-#EXTINF:0,FOX1
-http://178.238.224.19/5858/415.m3u8
+#EXTINF:-1, Cartoon hd
+http://enterplay-live.hls.adaptive.level3.net:80/cartoonhd/cartoonhd.isml/cartoonhd.m3u8
+#EXTINF:-1, Disney hd
+http://enterplay3-live.hls.adaptive.level3.net:80/disneyhd/disneyhd.isml/disneyhd-audio_4=128000-video=1100000.m3u8
+#EXTINF:-1, Nick hd
+http://enterplay3-live.hls.adaptive.level3.net:80/nickbrhd/nickbrhd.isml/nickbrhd.m3u8
+#EXTINF:-1, NickJr
+http://enterplay3-live.hls.adaptive.level3.net:80/nickjr/nickjr.isml/hls/.m3u8
+#EXTINF:-1, DisneyJr
+http://enterplay3-live.hls.adaptive.level3.net/disneyjr/disneyjr.isml/hls/.m3u8
+#EXTINF:-1, DisneyXd
+http://enterplay3-live.hls.adaptive.level3.net:80/disneyxd/disneyxd.isml/hls/.m3u8
+
 #EXTINF:-1,-DEPORTES-
 
 #EXTINF:-1 group-title="DEPORTES",bein HD1
