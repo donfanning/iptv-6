@@ -35,18 +35,6 @@ http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
 http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
 
 #EXTINF:-1,-NX-
-#EXTINF:-1, Cartoon hd
-http://enterplay-live.hls.adaptive.level3.net:80/cartoonhd/cartoonhd.isml/cartoonhd.m3u8
-#EXTINF:-1, Disney hd
-http://enterplay3-live.hls.adaptive.level3.net:80/disneyhd/disneyhd.isml/disneyhd-audio_4=128000-video=1100000.m3u8
-#EXTINF:-1, Nick hd
-http://enterplay3-live.hls.adaptive.level3.net:80/nickbrhd/nickbrhd.isml/nickbrhd.m3u8
-#EXTINF:-1, NickJr
-http://enterplay3-live.hls.adaptive.level3.net:80/nickjr/nickjr.isml/hls/.m3u8
-#EXTINF:-1, DisneyJr
-http://enterplay3-live.hls.adaptive.level3.net/disneyjr/disneyjr.isml/hls/.m3u8
-#EXTINF:-1, DisneyXd
-http://enterplay3-live.hls.adaptive.level3.net:80/disneyxd/disneyxd.isml/hls/.m3u8
 
 #EXTINF:-1,-DEPORTES-
 
