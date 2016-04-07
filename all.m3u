@@ -96,8 +96,10 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
 
 #EXTINF:-1,-MUSICA-
-#EXTINF:-1group-title="MUSICA",HIT TV 
+
+#EXTINF:-1, tvg-logo="" group-title="MUSICA", HIT TV
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
 #EXTINF:-1,Quiero Musica
 mms://streamqm.uigc.net/qmusica
 #EXTINF:-1,Musica SI
